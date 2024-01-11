@@ -1,0 +1,13 @@
+.DS_Store
+/Socket/Client/bin
+/Socket/Client/obj
+/Socket/Server/bin
+/Socket/Server/obj
+/.vscode
+/Chord/obj
+/Chord/bin
+.fake
+/Gossip/bin
+/Gossip/obj
+/Chord/Team_2/Chord/obj
+/Chord/Team_2/Chord/bin
