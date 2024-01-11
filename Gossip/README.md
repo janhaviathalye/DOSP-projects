@@ -93,9 +93,9 @@ The project utilizes several dependencies:
 
 Screenshots demonstrating the program output for different scenarios and topologies:
 - dotnet run 10 line gossip
-![Output 1](./Gossip/Output1.png "Our Team Logo")
-- dotnet run 10 2D possum
-![Output 2](./Gossip/Output2.png "Our Team Logo")
+![Output 1](./Output1.png "Our Team Logo")
+- dotnet run 10 2D pushsum
+![Output 2](./Output2.png "Our Team Logo")
 
 
 ## Largest Network
@@ -116,24 +116,24 @@ Based on the various simulations that we ran nf the Gossip and Push Sum algorith
 ## Results Visualization
 1. Convergence Time vs NumNodes for all Topologies in Gossip Algorithm
 
-![Output 3](./Gossip/Output3.png "Our Team Logo")
+![Output 3](./Output3.png "Our Team Logo")
 
 2. Convergence Time vs NumNodes for all Topologies in Push Sum Algorithm
 
-![Output 3](./Gossip/Output4.png "Our Team Logo")
+![Output 3](./Output4.png "Our Team Logo")
 
 3. Comparison of Various Topologies in Gossip Algorithm
 
-![Output 3](./Gossip/Output5.png "Our Team Logo")
-![Output 3](./Gossip/Output6.png "Our Team Logo")
+![Output 3](./Output5.png "Our Team Logo")
+![Output 3](./Output6.png "Our Team Logo")
 
 4. Comparison of Various Topologies in Push Sum Algorithm
 
-![Output 3](./Gossip/Output7.png "Our Team Logo")
+![Output 3](./Output7.png "Our Team Logo")
 
-![Output 3](./Gossip/Output8.png "Our Team Logo")
+![Output 3](./Output8.png "Our Team Logo")
 
-![Output 3](./Gossip/Output9.png "Our Team Logo")
+![Output 3](./Output9.png "Our Team Logo")
 
 
 
